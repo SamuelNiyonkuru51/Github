@@ -1,0 +1,65 @@
+body{
+	height: 1000px;
+	width: 1330px;
+	background-image: url("GRAYY.jpeg");
+	background-size: cover;
+	background-position: center;
+	opacity: 100%;
+}
+.links{
+	
+	width: 78%;
+	height: 13%;
+	background-color: rgba(0,0,0,.2);
+	position: relative;
+	top: -161px;
+	left: 232px;
+	padding: 44px 30px;
+}
+
+
+.links ul{
+ text-align: center;
+}
+
+.links ul li{
+ list-style: none;
+ display: inline-block;
+}
+
+.links ul li a{
+display: block;
+text-decoration: none;
+text-transform: uppercase;
+color: #66fcf1;
+font-size: 20px;
+font-family: 'Raleway', sans-serif;
+letter-spacing: 2px;
+font-weight: 600;
+padding: 25px;
+ transition: all ease 0.5s;
+}
+
+.links ul li a:hover{
+background-color: #211b4385;
+padding: 25px;
+}
+
+h1{
+	font-size: 20px;
+	color: green;
+}
+
+h2{
+	font-size: 40px;
+	color:red;
+}
+img{
+	width: 222px;
+	height: 232px;
+	position: relative;
+	top: 91px;
+	left: -11px;
+	padding: 6px 10px;
+
+}
